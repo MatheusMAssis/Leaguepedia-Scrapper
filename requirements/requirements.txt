@@ -78,7 +78,7 @@ pkgutil-resolve-name==1.3.10
     # via jsonschema
 protobuf==3.20.3
     # via streamlit
-pyarrow==11.0.0
+pyarrow==14.0.1
     # via streamlit
 pydeck==0.8.0
     # via streamlit
