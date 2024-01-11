@@ -30,7 +30,7 @@ entrypoints==0.4
     # via altair
 gitdb==4.0.10
     # via gitpython
-gitpython==3.1.31
+gitpython==3.1.41
     # via streamlit
 idna==3.4
     # via requests
@@ -38,7 +38,7 @@ importlib-metadata==6.0.0
     # via streamlit
 importlib-resources==5.12.0
     # via jsonschema
-jinja2==3.1.2
+jinja2==3.1.3
     # via
     #   altair
     #   pydeck
