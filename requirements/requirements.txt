@@ -131,7 +131,7 @@ urllib3==1.26.14
     # via requests
 validators==0.20.0
     # via streamlit
-zipp==3.15.0
+zipp==3.19.1
     # via
     #   importlib-metadata
     #   importlib-resources
